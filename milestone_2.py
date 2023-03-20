@@ -12,3 +12,10 @@ print(word_list)
 # pick a random choice from a list of strings.
 word = random.choice(word_list)
 print(word)
+# Step 1. Using the input function, ask the user to enter a single letter.
+
+# Step 2. Assign the input to a variable called guess.
+print("Enter a single letter")
+guess = input()
+print(guess)
+
